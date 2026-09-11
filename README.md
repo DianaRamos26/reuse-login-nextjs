@@ -1,4 +1,4 @@
-# ReUse — "Cap 4 - Next Step").
+# ReUse — "Cap 4 - Next Step"
 
 Área de **Login, Cadastro e Recuperação de Senha** da plataforma ReUse,
 desenvolvida em **Next.js (App Router)** para a fase de Frameworks
