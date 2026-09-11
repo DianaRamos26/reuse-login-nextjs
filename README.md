@@ -1,8 +1,8 @@
-# ReUse! — Área de Login (Next.js)
+# ReUse! — NEXT STEP
 
 Área de **Login, Cadastro e Recuperação de Senha** da plataforma ReUse,
 desenvolvida em **Next.js (App Router)** para a fase de Frameworks
-(atividade "Startup One").
+(atividade "Cap 4 - Atividade 01 - Next Step").
 
 ## Funcionalidades
 
